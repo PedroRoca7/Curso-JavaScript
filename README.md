@@ -1,2 +1,2 @@
-# Curso JavaScript
- Codigos do curso em JavaScript
+# Curso de JavaScript
+ Códigos do curso em JavaScript!
